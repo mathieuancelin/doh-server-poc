@@ -1,6 +1,6 @@
-# DoH servcer POC
+# DoH server
 
-prototype of a very simple DNS over HTTPS server written in node
+prototype of a very simple DNS over HTTPS server written in node for experimentations
 
 ```sh
 echo '127.0.0.1    dns.foo.bar' >> /etc/hosts
